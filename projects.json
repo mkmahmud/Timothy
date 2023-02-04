@@ -1,0 +1,474 @@
+[
+    {
+        "_id": "63c688915ad11l60901b7c7e",
+        "index": 0,
+        "projectName": "HealthOpX",
+        "title": "HealthOpx is a healthcare consulting and technology company that provides services such as strategic planning, data analytics, and digital transformation to healthcare organizations. ",
+        "image": "https://i.ibb.co/Df5LmLz/main.png",
+        "overview": "HealthOpX cofounders are 2nd generation Americans who had to help their parents navigate the healthcare system. They leaned on their community and community-based organizations for guidance. They knew that to create a sustainable change in their communities they had to uplift and support the community-based organizations that helped them growing up. HealthOpX saw similarities in other underserved populations around the U.S., and how community organizations were also a pillar of those communities, and is on a mission to create sustainable change for the underserved.",
+        "liveSite": "https://healthopx.com/",
+        "technologies": [
+            {
+                "name": "Java Spring"
+            },
+            {
+                "name": "ionic "
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "services": [
+            {
+                "name": "UX/UI design"
+            },
+            {
+                "name": "Front end  Development"
+            },
+            {
+                "name": "back end  Development"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Security and privacy concerns, as sensitive patient information needs to be protected. Solutions include implementing secure servers and encryption techniques."
+            },
+            {
+                "name": "Data governance, management, and analytics. Solutions include use of data management platforms, governance frameworks, and data analytics tools."
+            },
+            {
+                "name": "Integration with existing healthcare systems and databases. Solutions include using APIs and HL7 interfaces."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Security and privacy: Implementing secure servers and encryption techniques such as SSL/TLS, two-factor authentication, and regular security audits."
+            },
+            {
+                "name": "Data governance, management, and analytics: Use of data management platforms, governance frameworks, and data analytics tools to ensure proper data governance and analytics."
+            },
+            {
+                "name": "Integration: Using APIs and HL7 interfaces to integrate with existing healthcare systems and databases."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://i.ibb.co/3p9XXDd/f1.png",
+                "title": "Community Health Partner",
+                "detils": "HealthOpX offers operations software to community-based organizations so they can effectively carry out their own programs and work with government and health entities."
+            },
+            {
+                "image": "https://i.ibb.co/56kdnrR/f3.png",
+                "title": "Community Health Improvements With Technology",
+                "detils": "HealthOpX also has a predictive analytics tool that enables you to assess the risk of a members readmission, ER visit, and morbidity. We also have a service-based platform, where we partner with community-based organizations (CBO’s) to act upon these risk assessments. When CBO’s deliver a measure of preventative care or intervention through the service-based platform it feeds back into the algorithm and we are able to calculate how much they decreased the risk of X event or how they affected X health improvement initiative."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891816e22ffg553ba44",
+        "index": 1,
+        "projectName": "Synerise",
+        "title": "This is an AI-driven marketing dashboard and SaaS project. Reinvented behavioral data processing & put it into work using AI & automation",
+        "image": "https://i.ibb.co/rfQ5Qxf/main.png",
+        "overview": "Reinvented behavioral data processing & put it into work using AI & automation 🥳 #17 Europe’s Fastest Growing Technology SectorCompany according to Financial Times & statista.com API first, headless, customizable & scalable, real-time interaction management, low code platform driven by science with data orchestration and pragmatic business scenarios execution.",
+        "liveSite": "https://synerise.com/",
+        "technologies": [
+            {
+                "name": "Java Spring"
+            },
+            {
+                "name": "Node"
+            },
+            {
+                "name": "Microservices"
+            },
+            {
+                "name": "React.JS"
+            },
+            {
+                "name": "Next.JS"
+            }
+        ],
+        "services": [
+            {
+                "name": "Full-Stack Development"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Data security: Ensuring that sensitive data is protected and in compliance with regulations such as GDPR and CCPA."
+            },
+            {
+                "name": "Integration with existing tools: Integrating the dashboard with existing marketing tools such as Google Analytics, Facebook Ads, or marketing automation software."
+            },
+            {
+                "name": "Pricing and cost: Finding the right pricing model and cost structure to attract and retain customers."
+            },
+            {
+                "name": "Scalability: Ensuring that the dashboard can handle a large amount of data and accommodate for future growth in terms of users and data sources."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Data security: Implementing secure servers and encryption techniques, as well as regular security audits to ensure data protection and compliance with regulations."
+            },
+            {
+                "name": "Integration with existing tools: Using APIs and integration platforms to connect the dashboard with existing marketing tools."
+            },
+            {
+                "name": "Pricing and cost: Finding the right pricing model and cost structure to attract and retain customers, for example, usage-based pricing or tiered pricing plans."
+            },
+            {
+                "name": "Scalability: Using cloud-based infrastructure and load balancing techniques to handle a large amount of data and accommodate for future growth."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/6d90ee9d65cf42ed9ada3ca7b467f2ff.jpg",
+                "title": "Retail",
+                "detils": "Seamlessly integrate online and offline customer activities for a true 360-degree profile, updated in real time, while delivering customized content at scale.."
+            },
+            {
+                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/ab9c35443bf245f59ba259c8fe4bd014.jpg",
+                "title": "E-commerce",
+                "detils": "Monitor customer touchpoints for optimized content and pricing information in tailored conversion paths."
+            },
+            {
+                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/0f932db1cafe4957b0dce590b1edb321.jpg",
+                "title": "Automotive",
+                "detils": "Manage lead generation and sales funnel activity more effectively to drive traffic to showrooms, while enhancing the customer experience."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891256ca3bw2c92b510",
+        "index": 2,
+        "projectName": "MasterMind",
+        "title": "The New Way To Sell What You Know Online.",
+        "image": "https://i.ibb.co/zf1ngfP/main.png",
+        "overview": "MasterMind is an event management system that helps inexperienced coordinators with handling the organisation process step-by-step. The app includes multiple features: timelines, lists of tasks and requirements, registration of participants along with payment, an interactive wizard to create the promotion website and event agenda, video guides, and more.",
+        "liveSite": "https://mastermind.com/",
+        "technologies": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Java Spring"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "services": [
+            {
+                "name": "UX/UI design"
+            },
+            {
+                "name": "Web Development"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Scalability: Ensuring that the system can handle a large number of events and attendees, as well as accommodate for future growth."
+            },
+            {
+                "name": "User experience: Ensuring that the system is user-friendly and easy to navigate for both event organizers and attendees."
+            },
+            {
+                "name": "Data management: Managing and storing large amounts of event data, including attendee information, ticket sales, and event schedules."
+            },
+            {
+                "name": "Customization: Allowing for customization of the system to meet the specific needs of different event types and clients."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Scalability: Using cloud-based infrastructure and load balancing techniques to handle a large number of events and attendees, and accommodate for future growth."
+            },
+            {
+                "name": "User experience: Conducting user testing and incorporating feedback to improve the user interface, and providing clear and actionable insights to help event organizers and attendees."
+            },
+            {
+                "name": "Data management: Use of data management platforms and data governance frameworks to manage and store large amounts of event data."
+            },
+            {
+                "name": "Customization: Building the system with a modular architecture to allow for easy customization to the specific needs of different event types and clients."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://mastermind.com/wp-content/uploads/2022/07/build-your-business2x-1024x794.png",
+                "title": "Build Your Business With Simplicity",
+                "detils": "We’ve seen the same story too many times: you get excited, you know what you want to sell, what you want to say and who you want to serve… but then complicated technology gets in the way."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891256ca3b34c9j6510",
+        "index": 3,
+        "projectName": "AIO impact",
+        "title": "The New Way To Sell What You Know Online.Connecting analytical tools to digital execution",
+        "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact1.png",
+        "overview": "AIO impact is a product created by Aioneers company that is shaping the future of supply chains with AI-based digital execution management. Their system provides a seamless workflow that handles the analytics, decision support and digital execution of supply chain management. They do this with consulting, data science and technology. We collaborated with them to create a workflow process for this with a cloud-based infrastructure. To achieve set business goals, tasks are created by the client (business) and it moves through different stages. In the analytics stage, data is sent from the client to the data scientist for analysis to get insight into issues. Next, the system generates actionable recommendations to improve the supply chain. Say, for example, a business needs to increase the production of certain goods, there are two choices before them to realize this – either buy more equipment or hire more workers. Within the application, the supply chain consultants describe possible solutions and monitor the dashboards for the implementations already in motion.",
+        "liveSite": "https://www.aioneers.com/platform/aioimpact",
+        "technologies": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "NgRx"
+            },
+            {
+                "name": "RxJs"
+            },
+            {
+                "name": "Karma"
+            },
+            {
+                "name": "Jasmine"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "SCSS"
+            },
+            {
+                "name": "MUI"
+            },
+            {
+                "name": "Micro Services"
+            },
+            {
+                "name": "Node.JS"
+            },
+            {
+                "name": "Kafka.js"
+            },
+            {
+                "name": "KOA"
+            },
+            {
+                "name": "Docker"
+            }
+        ],
+        "services": [
+            {
+                "name": "Frontend"
+            },
+            {
+                "name": "Backend"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Scalability: Ensuring that the system can handle a large number of events and attendees, as well as accommodate for future growth."
+            },
+            {
+                "name": "User experience: Ensuring that the system is user-friendly and easy to navigate for both event organizers and attendees."
+            },
+            {
+                "name": "Data management: Managing and storing large amounts of event data, including attendee information, ticket sales, and event schedules."
+            },
+            {
+                "name": "Customization: Allowing for customization of the system to meet the specific needs of different event types and clients."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Scalability: Using cloud-based infrastructure and load balancing techniques to handle a large number of events and attendees, and accommodate for future growth."
+            },
+            {
+                "name": "User experience: Conducting user testing and incorporating feedback to improve the user interface, and providing clear and actionable insights to help event organizers and attendees."
+            },
+            {
+                "name": "Data management: Use of data management platforms and data governance frameworks to manage and store large amounts of event data."
+            },
+            {
+                "name": "Customization: Building the system with a modular architecture to allow for easy customization to the specific needs of different event types and clients."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact3.png",
+                "title": "The Execution board",
+                "detils": "The user has access to all relevant business objects and can quickly decide on the next actions, easily collaborate with your team members and see the results of his work."
+            },
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact4.png",
+                "title": "Work with DOT’s",
+                "detils": "This company has their own connecting suite AIOconnect, specifically built for analytics platforms, helps you to automatically embed all relevant business objects as DOTs (Digital Object Twins) into AIOimpact. DOTs are digital replicas of objects in your business, representing objects from the real world. DOTs enable you to quantify the benefits from improvement measures and actions. They can easily be imported from ERPs, planning or analytics systems, and then used to project and steer improvement initiatives, execution of decisions, and handling the resolution of incidents."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891156ca3b34c9j6510",
+        "index": 4,
+        "projectName": "Dropyzon",
+        "title": "Dropyzon needed a portal that would allow their dropshipping clients to order from Amazon, with delivery to their customers directly.",
+        "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon.png",
+        "overview": "Dropyzon needed a portal that would allow their dropshipping clients to order from Amazon, with delivery to their customers directly. Dropyzon would be able to find the products at the lowest prices across the Amazon platform, produce a tracking number, and then dispatch the item directly to the dropshipper’s customers. Client required a complete solution to be built from scratch, covering both the backend and frontend operations. The site needed an engaging and simple UI/UX, options for integration with other platforms, and the capability to grow alongside the business.",
+        "liveSite": "https://www.dropyzon.com/",
+        "technologies": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Spring Boot"
+            },
+            {
+                "name": "Hibernate"
+            },
+            {
+                "name": "Vue.js"
+            },
+            {
+                "name": "RabbitMQ"
+            },
+            {
+                "name": "Selenium"
+            },
+            {
+                "name": "RSocket"
+            },
+            {
+                "name": "PostgreSQL"
+            },
+            {
+                "name": "JUnit"
+            },
+            {
+                "name": "Quartz"
+            }
+        ],
+        "services": [
+            {
+                "name": "Backend"
+            },
+            {
+                "name": "Testing"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Scalability: Ensuring that the system can handle a large number of events and attendees, as well as accommodate for future growth."
+            },
+            {
+                "name": "User experience: Ensuring that the system is user-friendly and easy to navigate for both event organizers and attendees."
+            },
+            {
+                "name": "Data management: Managing and storing large amounts of event data, including attendee information, ticket sales, and event schedules."
+            },
+            {
+                "name": "Customization: Allowing for customization of the system to meet the specific needs of different event types and clients."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Scalability: Using cloud-based infrastructure and load balancing techniques to handle a large number of events and attendees, and accommodate for future growth."
+            },
+            {
+                "name": "User experience: Conducting user testing and incorporating feedback to improve the user interface, and providing clear and actionable insights to help event organizers and attendees."
+            },
+            {
+                "name": "Data management: Use of data management platforms and data governance frameworks to manage and store large amounts of event data."
+            },
+            {
+                "name": "Customization: Building the system with a modular architecture to allow for easy customization to the specific needs of different event types and clients."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
+                "title": "Editing orders",
+                "detils": "These included the ability to add and edit orders, allowing customers the option to change or cancel orders and get refunds where possible. Customers are also able to upload data using a CSV file."
+            },
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
+                "title": "Order processing system",
+                "detils": "Once we had completed the order placing elements of the platform, we then designed an order processing system that could be run as an automated solution or operated manually, with administrators applying the rules."
+            },
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon2.png",
+                "title": "Order update interface",
+                "detils": "After that we created an order update interface so that users could see any changes to the product, delivery tracking information, location data and any problems with the product. We ensured that the platform is fully synchronized with Amazon."
+            },
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
+                "title": "Integration with another platform",
+                "detils": "Apart from ensuring the platform worked with Amazon, we also designed it to integrate with eBay, so that intermediaries could benefit from an almost fully automated business model. Using this feature allows the platform to place orders on eBay, process them, order the items from Amazon, assign a tracking number, and deliver them to the end customer. After this development work was completed, we connected the platform to Payoneer and PayPal."
+            },
+            {
+                "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
+                "title": "Registration pages",
+                "detils": "We then created registration pages and a login feature using Google Forms. This was then supported with email verification to ensure that the platform was safe and secure."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891156ca3b34c9j7f10",
+        "index": 4,
+        "projectName": "MyFitnessPal",
+        "title": "Securing for MyFitnessPal User Growth From 30 to 200 Million by Providing Finest QA Services",
+        "image": "https://i.ibb.co/LgHVcP1/Screenshot-5.png",
+        "overview": "MyFitnessPal is the world’s most popular health and fitness app with an audience of more than 200 million users. The app helps to track calories, breakdown meal ingredients and log activities. Build app’s Test Automation infrastructure. Develop and maintain Automation Tests. Implement a proper QA process for short release iterations & fast release cycle. ",
+        "liveSite": "https://www.myfitnesspal.com/",
+        "technologies": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Spring Boot"
+            },
+            {
+                "name": "Appium"
+            },
+            {
+                "name": "Carina Framework"
+            },
+            {
+                "name": "Selenium"
+            },
+            {
+                "name": "Jenkins"
+            },
+            {
+                "name": "TestNG"
+            },
+            {
+                "name": "Docker"
+            }
+        ],
+        "services": [
+            {
+                "name": "Backend"
+            },
+            {
+                "name": "Testing"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "A large user base (200M+) requires special handling and care to maintain integrity. To cope with a high level of risks we’ve built a custom QA process called Continuous QA, based on the industry best practices, CI methodology and development lifecycle specifics. This has already helped us to reduce average QA costs by 35% whilst maintaining quality levels"
+            },
+            {
+                "name": "Huge time and budget costs to test many different mobile devices individually. We provided a Mobile testing cloud, which lets the company run the cases 24/7 on 30 mobile devices in the multithreaded grid. This solution includes both software and hardware layers, providing the full infrastructure required to execute the automated tests"
+            }
+        ],
+        "solutions": [
+            {
+                "name": "The number of regression tests required is continuously growing with each new update release. We’ve introduced Carina, a mobile test automation framework, developed in our labs. Among the core benefits here is 80% of code reuse between IOS and Android automated test cases — which dramatically boosts the development speed of automated tests"
+            },
+            {
+                "name": "Worldwide coverage with lots of languages (WEB – 15, Mobile – 20). We scaled the QA to full support of international locales. Starting with manual acceptance we transformed it into a fully automated testing sequence"
+            }
+        ],
+        "features": [
+            {
+                "image": "https://www.solvd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyfitnesspal-results-1.75618210.jpg&w=1920&q=75",
+                "title": "Good health starts with what you eat.",
+                "detils": "Want to eat more mindfully? Track meals, learn about your habits, and reach your goals with MyFitnessPal."
+            }
+        ]
+    }
+]
